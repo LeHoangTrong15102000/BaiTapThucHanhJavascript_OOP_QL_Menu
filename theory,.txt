@@ -1,0 +1,1 @@
+// để quản lí cai table thì ta tạo ra cái danh sách đối tượng
